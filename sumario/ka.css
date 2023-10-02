@@ -1,0 +1,97 @@
+body { 
+    background-color: #ffffff;
+}
+.subtexto {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: black;
+    font-size: 11px;
+}
+.subtexto3 {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: black;
+    font-size: 20px;
+}
+.subtexto1 {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: black;
+    font-size: 10px;
+}
+.carta {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: black;
+    font-size: 15px;
+}
+
+.texto{ 
+    font-family: 'Merriweather Sans', sans-serif;
+    color: black;
+    margin-top: 40px;
+    font-size: 40px;
+}
+.img{
+    position: relative;
+    width: 20vw;
+    align-items: center;
+}
+.img2{
+    position: relative;
+    width: 35vw;
+    align-items: center;
+}
+.img1{
+    margin-left: 15 rem;
+    position: relative;
+    width: 20vw;
+    align-items: center;
+}
+.img3{
+    position: relative;
+    width: 40rem;
+    margin-left: 40rem;
+}
+
+.button {
+    margin-left: none;
+    background-color:transparent;
+    margin-bottom: 20px;
+    border: transparent;
+    border-radius: 6px;
+    margin-right: 20px;
+    margin-top: 30px;
+    width: 120px;
+    font-size: 7px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.button1 {
+    margin-left: none;
+    background-color:transparent;
+    margin-bottom: 20px;
+    border: transparent;
+    border-radius: 6px;
+    margin-right: 20px;
+    margin-top: 30px;
+    width: 120px;
+    font-size: 7px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.voltar {
+    border-radius: 6px;
+    border-color: transparent;
+    margin-right: 5px;
+    margin-top: 15rem;
+    height: 30px;
+    width: 100px;
+    margin-bottom: 0;
+    font-size: 7px;
+    font-family: 'Borgen', sans-serif;                                                                                    
+    box-shadow:10px 10px 10px #000000;
+}
+.alinhar{
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    text-decoration: none;
+}
