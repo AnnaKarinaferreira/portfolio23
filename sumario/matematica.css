@@ -1,0 +1,28 @@
+body{
+    background-color:  #adbbc6;
+}
+
+.voltar{
+    border-radius: 6px;
+    border-color: transparent;
+    margin-top: 10rem;
+    margin-left: none;
+    margin-right: 5px;
+    margin-top: none;
+    height: 30px;
+    width: 100px;
+    font-size: 7px;
+    font-family: 'Bordofixed Tryout', sans-serif;
+    box-shadow:10px 10px 10px #000000;
+}
+.geral{
+    margin-left: 3rem;
+}
+.texto{                                                                     
+    font-family: 'Rampwind', sans-serif;
+    font-size: 80px;                                                                                                                                    
+}
+.subtexto{ 
+    font-family: 'Rampwind', sans-serif;
+    font-size: 15px;
+}

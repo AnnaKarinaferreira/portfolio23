@@ -1,5 +1,6 @@
 body { 
-    background-color: #ffffff;
+    background-color: #DDD8D0;
+    margin-left: none;
 }
 .subtexto {
     font-family: 'Merriweather Sans', sans-serif;
@@ -10,6 +11,7 @@ body {
     font-family: 'Merriweather Sans', sans-serif;
     color: black;
     font-size: 20px;
+    margin-bottom: 4rem;
 }
 .subtexto1 {
     font-family: 'Merriweather Sans', sans-serif;
@@ -50,7 +52,19 @@ body {
     margin-left: 40rem;
 }
 
-.button {
+.button{
+    margin-left: none;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    margin-right: 20px;
+    margin-top: 30px;
+    width: 120px;
+    font-size: 7px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+/*botao de areas html*/
+.button2{
     margin-left: none;
     background-color:transparent;
     margin-bottom: 20px;
@@ -58,6 +72,21 @@ body {
     border-radius: 6px;
     margin-right: 20px;
     margin-top: 30px;
+    width: 120px;
+    font-size: 7px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+
+.button{
+    margin-left: none;
+    position: relative;
+    background-color:transparent;
+    margin-bottom: 10px;
+    border: transparent;
+    border-radius: 6px;
+    margin-right: 20px;
+    margin-top:none;
     width: 120px;
     font-size: 7px;
     font-family: 'Merriweather Sans', sans-serif;
@@ -75,11 +104,25 @@ body {
     font-family: 'Merriweather Sans', sans-serif;
 }
 
+.voltar1 {
+    border-radius: 6px;
+    border-color: transparent;
+    margin-left: 37rem;
+    margin-right: 5px;
+    margin-top: 1rem;
+    height: 30px;
+    width: 100px;
+    margin-bottom: 0;
+    font-size: 7px;
+    font-family: 'Borgen', sans-serif;                                                                                    
+    box-shadow:10px 10px 10px #000000;
+}
 .voltar {
     border-radius: 6px;
     border-color: transparent;
+    margin-left: 1rem;
     margin-right: 5px;
-    margin-top: 15rem;
+    margin-top: 3rem;
     height: 30px;
     width: 100px;
     margin-bottom: 0;
@@ -94,4 +137,46 @@ body {
 
 a{
     text-decoration: none;
+}
+
+/*button matematica*/
+.subtexto4{
+    margin-top: 10rem;
+    color: #000000;
+}
+
+.caixa{
+    padding:11px;
+    height: 120px;
+    background-color: #A59094 ;
+    border: none;
+    width: 900px;
+    border-radius: 30px;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.caixa1{
+    padding:11px;
+    height: 120px;
+    background-color: #A59094 ;
+    border: none;
+    width: 900px;
+    border-radius: 30px;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.caixa2{
+    padding:11px;
+    height: 120px;
+    background-color: #A59094 ;
+    border: none;
+    width: 900px;
+    border-radius: 30px;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
 }

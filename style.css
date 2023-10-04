@@ -1,5 +1,5 @@
 body { 
-    background-color: #a999be;
+    background-color: #DDD8D0;
 }
 
 .linha1 {
@@ -7,20 +7,18 @@ body {
     margin-bottom: none;
     margin-left: none ;
     margin-top: 15px;
-    font-size: 15px;
-    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 15px;font-family: 'Rampwind', sans-serif;
                                                                                                                                          
 }
 
 .linha2 {
     margin-left: 10px;
     margin-top: 70px;
-    font-size: 75px;
-    font-family: 'Merriweather Sans', sans-serif;                                                                                                                                      
+    font-size: 75px;font-family: 'Rampwind', sans-serif;                                                                                                                                     
 }
 
 .subtexto {
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Rampwind', sans-serif;
     color: black;
     font-size: 10px;
 
@@ -30,7 +28,7 @@ body {
     margin-top: 5px;
     margin-left: 10px;
     margin-bottom: 10px;
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Rampwind', sans-serif;
     font-size: 10px;
 
 }
@@ -39,7 +37,7 @@ body {
     margin-top: 15px;
     margin-left: 10px;
     margin-bottom: 20px;
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Rampwind', sans-serif;
     font-size: 15px;
 }
 
@@ -53,14 +51,5 @@ body {
     margin-top: 30px;
     width: 120px;
     font-size: 7px;
-    font-family: 'Merriweather Sans', sans-serif;
-}
-
-a {
-    text-decoration: none;
-}
-
-.box2{
-    margin-top: 13rem;
-
+    font-family: 'Rampwind', sans-serif;
 }
